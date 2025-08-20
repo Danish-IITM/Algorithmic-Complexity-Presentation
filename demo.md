@@ -27,6 +27,7 @@ O(n^k),\quad \Theta(f(n)),\quad \Omega(g(n))
 $$
 
 ---
+<!-- _backgroundColor: skyblue -->
 ## Types of complexities
 <div class="columns">
 <div>
